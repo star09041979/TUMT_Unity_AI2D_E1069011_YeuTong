@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/Unity_UI_E1069011_TONG.unity
+  isLoaded: 1
+  isActive: 1
+- path: "Assets/Scenes/\u6A19\u984C\u756B\u9762.unity"
+  isLoaded: 1
+  isActive: 0
+- path: "Assets/Scenes/\u904A\u6232\u5834\u666F.unity"
+  isLoaded: 1
+  isActive: 0
